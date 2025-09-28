@@ -10,4 +10,6 @@ Currently, I work on the NANOGrav Pulsar Timing Array project where I develop me
 
 [Here are my publications](https://inspirehep.net/authors/1889521)
 
+[Here's my non-science blog](https://alleysofmind.com)
+
 You can reach me at : ashokan@oregonstate.edu
