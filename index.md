@@ -1,5 +1,5 @@
 # Hi, I’m Anjana.
-<img src="profile.jpg" alt="Anjana Ashok" width="150px" style="border-radius:50%; float: right; margin-left: 20px;">
+<img src="original.jpeg" alt="Anjana Ashok" width="150px" style="border-radius:50%; float: right; margin-left: 20px;">
 
 Welcome to my personal website!  
 I work on gravitational waves, pulsars, and data science.
